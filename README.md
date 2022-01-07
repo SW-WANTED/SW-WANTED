@@ -1,8 +1,7 @@
 <div>
   <h1 align="center"><a href="https://www.Instagram.com/sw_wanted"><i>SW Wanted<img align="center" alt="SW Wanted" height="100" width="100" src="SW Wanted.png"> </i></a></h1>
-  <p align="center"> Everything you need to learn WPF FrameWork
-  <br>
-  <p align="center"> Enjoy the WPF Projects 😉️</h2>
+  <p align="center"> Everything you need to learn desktop and websites projects
+  <p align="center"> Enjoy programming projects 😉️</h2>
 </div>
 
 
