@@ -35,8 +35,11 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCxKMd7QtDLm63ngc2pvZHbw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/sw_wanted" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/SWWANTEDonYT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
+<div align="center">
+  <a href="https://twitter.com/sw_wanted" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWITTER&logo=twitter&style=for-the-badge&url=https%3A%2F%2Fshields.io%2Fbadge%2Ftwitter" target="_blank"></a>
+  <a href="https://instagram.com/sw_wanted" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://facebook.com/SWWANTEDonYT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
