@@ -19,10 +19,10 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
-  <img align="center" alt="XAML" height="30" width="40" src="https://user-images.githubusercontent.com/7389110/64734952-8a06ae80-d4df-11e9-830a-2c451a6c0694.png">
+  <img align="center" alt="C#" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+  <img align="center" alt="XAML" height="35" width="35" src="https://user-images.githubusercontent.com/7389110/64734952-8a06ae80-d4df-11e9-830a-2c451a6c0694.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
