@@ -1,19 +1,11 @@
 <div>
   <h1 align="center"><a href="https://www.Instagram.com/sw_wanted"><i>SW Wanted<img align="center" alt="SW Wanted" height="100" width="100" src="SW Wanted.png"> </i></a></h1>
-  <p align="center"> Everything you need to learn desktop and websites projects
+  <p align="center"> Desktop and Web Developer
   <p align="center"> Enjoy programming projects 😉️</h2>
 </div>
 
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
 <div align="center">
   <a href="https://github.com/SW-Wanted">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SW-Wanted&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-Wanted&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
