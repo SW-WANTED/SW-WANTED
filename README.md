@@ -32,12 +32,5 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  #### STREAKS
-  [![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=SW-Wanted&theme=blue-green)](https://github.com/SW-Wanted#streaks)
-</div>
-
-<div align="center">
   <p>:heart:SW Wanted:heart:</p>
 </div>
